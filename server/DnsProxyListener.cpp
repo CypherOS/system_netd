@@ -47,7 +47,6 @@
 #include "ResponseCode.h"
 #include "Stopwatch.h"
 #include "android/net/metrics/INetdEventListener.h"
-#include "android/net/metrics/IDnsEventListener.h"
 #include "QtiDataController.h"
 
 using android::String16;
